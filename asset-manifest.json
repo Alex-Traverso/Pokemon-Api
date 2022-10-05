@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Alex-Traverso.github.io/Pokemon-Api/static/css/main.ca888b94.css",
-    "main.js": "/Alex-Traverso.github.io/Pokemon-Api/static/js/main.7c78cc15.js",
-    "index.html": "/Alex-Traverso.github.io/Pokemon-Api/index.html",
-    "main.ca888b94.css.map": "/Alex-Traverso.github.io/Pokemon-Api/static/css/main.ca888b94.css.map",
-    "main.7c78cc15.js.map": "/Alex-Traverso.github.io/Pokemon-Api/static/js/main.7c78cc15.js.map"
+    "main.css": "/alex-traverso.github.io/Pokemon-Api/static/css/main.ca888b94.css",
+    "main.js": "/alex-traverso.github.io/Pokemon-Api/static/js/main.7c78cc15.js",
+    "index.html": "/alex-traverso.github.io/Pokemon-Api/index.html",
+    "main.ca888b94.css.map": "/alex-traverso.github.io/Pokemon-Api/static/css/main.ca888b94.css.map",
+    "main.7c78cc15.js.map": "/alex-traverso.github.io/Pokemon-Api/static/js/main.7c78cc15.js.map"
   },
   "entrypoints": [
     "static/css/main.ca888b94.css",
